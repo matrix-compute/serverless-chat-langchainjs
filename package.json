@@ -48,7 +48,7 @@
     "lint-staged": "^15.2.2",
     "prettier": "^3.0.3",
     "rimraf": "^6.0.1",
-    "simple-git-hooks": "^2.9.0",
+    "simple-git-hooks": "^2.12.1",
     "typescript": "^5.3.3",
     "xo": "^0.59.3"
   },
